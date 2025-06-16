@@ -24,71 +24,135 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 
 ## 🧰 Tools & Categories Covered
 
-### 🎨 Styling & UI Frameworks
 
-- Tailwind CSS  
-- Bootstrap 5  
-- Sass (SCSS)  
-- DaisyUI (Tailwind plugin)  
-- ShadCN UI  
-- Radix UI  
-- Material UI (MUI)
+## 📌 Table of Contents
 
-### ⚛️ JavaScript Frameworks
-
-- React.js  
-- Next.js  
-- Vue.js (basics only)  
-- Vite (as build tool for JS/React)
-
-### 🎬 Animation & Interaction
-
-- Framer Motion  
-- GSAP  
-- AOS (Animate on Scroll)  
-- Lottie
-
-### 📦 State Management
-
-- Redux Toolkit  
-- Zustand  
-- React Context API
-
-### ⚙️ Build & Tooling
-
-- Vite  
-- Webpack  
-- ESLint & Prettier  
-- Babel  
-- Husky + lint-staged
-
-### 🌐 API & Backend Integration
-
-- Axios  
-- React Query  
-- SWR  
-- Supabase
-
-### 🔒 Auth & Security
-
-- Firebase Auth  
-- NextAuth.js  
-- JWT (JSON Web Tokens)
-
-### 🚀 Deployment Platforms
-
-- Vercel  
-- Netlify  
-- GitHub Pages  
-- Firebase Hosting
-
-### 🧪 Testing (coming soon)
-
-- Vitest  
-- Jest  
-- React Testing Library  
+- [Styling](#styling)
+- [Frameworks](#frameworks)
+- [Animations](#animations)
+- [State Management](#state-management)
+- [HTTP Clients](#http-clients)
+- [Form Validation](#form-validation)
+- [UI Libraries](#ui-libraries)
+- [UI Testing](#ui-testing)
+- [Build Tools](#build-tools)
+- [Code Linting](#code-linting)
+- [Package Managers](#package-managers)
 
 ---
 
-## 📁 Folder Structure
+## 🎨 Styling
 
+- [TailwindCSS](https://tailwindcss.com/)
+- [Bootstrap 5](https://getbootstrap.com/)
+- [SASS](https://sass-lang.com/)
+- [PostCSS](https://postcss.org/)
+- [Styled Components](https://styled-components.com/)
+
+---
+
+## ⚛️ Frameworks
+
+- [ReactJS](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [VueJS](https://vuejs.org/)
+- [NuxtJS](https://nuxt.com/)
+- [Angular](https://angular.io/)
+
+---
+
+## 🎞️ Animations
+
+- [GSAP](https://gsap.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [React Spring](https://www.react-spring.dev/)
+
+---
+
+## 🔗 State Management
+
+- [Redux](https://redux.js.org/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Recoil](https://recoiljs.org/)
+- [Jotai](https://jotai.org/)
+
+---
+
+## 🌐 HTTP Clients
+
+- [Axios](https://axios-http.com/)
+- [React Query](https://tanstack.com/query/latest)
+
+---
+
+## ✅ Form Validation
+
+- [React Hook Form](https://react-hook-form.com/)
+- [Formik](https://formik.org/)
+- [Yup](https://www.npmjs.com/package/yup)
+
+---
+
+## 📚 UI Libraries
+
+- [Material UI](https://mui.com/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Ant Design](https://ant.design/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Headless UI](https://headlessui.com/)
+
+---
+
+## 🧪 UI Testing
+
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Cypress](https://www.cypress.io/)
+- [Playwright](https://playwright.dev/)
+
+---
+
+## ⚙️ Build Tools
+
+- [Vite](https://vitejs.dev/)
+- [Webpack](https://webpack.js.org/)
+- [Parcel](https://parceljs.org/)
+
+---
+
+## 🧹 Code Linting
+
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Stylelint](https://stylelint.io/)
+
+---
+
+## 📦 Package Managers
+
+- [npm](https://www.npmjs.com/)
+- [Yarn](https://yarnpkg.com/)
+- [pnpm](https://pnpm.io/)
+
+---
+
+## 🏁 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ggpio18/frontend-tools.git
+   ```
+
+2. Browse each folder to find setup examples and usage guides.
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Contributing
+
+Feel free to fork this repo, add new tools, and submit a pull request. Contributions are always welcome!
