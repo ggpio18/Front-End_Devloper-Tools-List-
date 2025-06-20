@@ -157,9 +157,14 @@ Feel free to fork this repo, add new tools, and submit a pull request. Contribut
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+   
+## 📜 **License**  
+This project is open-source under the **[MIT License](LICENSE)**.  
+
+---
 
 ## 📬 Contact
 🌐 [https://pioaranzadev.vercel.app](https://pioaranzadev.vercel.app)
 
-## �️ Tags
-`#Frontend` `#Development` `#WebDev` `#JavaScript` `#CSS` `#HTML` `#Tools` `#Resources` `#React` `#Vue` `#Angular`
+**🔖 Tags:**  
+`#frontend` `#webdev` `#javascript` `#react` `#vue` `#css` `#tools` `#resources`
