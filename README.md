@@ -25,23 +25,23 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 ## 🧰 Tools & Categories Covered
 
 
-## Table of Contents
-- [🌐 Browsers](#-browsers)
-- [📝 Code Editors](#-code-editors)
-- [🔧 Build Tools](#-build-tools)
-- [📦 Package Managers](#-package-managers)
-- [🔄 Version Control](#-version-control)
-- [🎨 UI Frameworks](#-ui-frameworks)
-- [💅 CSS Tools](#-css-tools)
-- [📱 Responsive Design](#-responsive-design)
-- [✨ Animation](#-animation)
-- [🧪 Testing](#-testing)
-- [⚡ Performance](#-performance)
-- [🔍 SEO](#-seo)
-- [🛠️ Miscellaneous](#️-miscellaneous)
-- [🙌 Contributing](#-contributing)
-- [📬 Contact](#-contact)
-- [🏷️ Tags](#️-tags)
+## 🌐 **Table of Contents**  
+- [🌐 Browsers](#-browsers)  
+- [💻 Code Editors](#-code-editors)  
+- [📦 Package Managers](#-package-managers)  
+- [🔄 Version Control](#-version-control)  
+- [⚡ Build Tools](#-build-tools)  
+- [🎨 UI Frameworks & Libraries](#-ui-frameworks--libraries)  
+- [🎨 CSS Tools](#-css-tools)  
+- [📱 Responsive Design](#-responsive-design)  
+- [✨ Animation](#-animation)  
+- [🧪 Testing](#-testing)  
+- [⚡ Performance Optimization](#-performance-optimization)  
+- [🔍 SEO](#-seo)  
+- [🛠️ Misc Tools](#️-misc-tools)  
+- [📚 Learning Resources](#-learning-resources)  
+- [🙌 Contributing](#-contributing)  
+- [📜 License](#-license)  
 
 ---
 
