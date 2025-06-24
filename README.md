@@ -32,7 +32,8 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [🔄 Version Control](#-version-control)  
 - [⚡ Build Tools](#-build-tools)  
 - [🎨 UI Frameworks & Libraries](#-ui-frameworks--libraries)  
-- [🎨 CSS Tools](#-css-tools)  
+- [🎨 CSS Tools](#-css-tools)
+- [🎨 UI Components](#-ui-components) 
 - [📱 Responsive Design](#-responsive-design)  
 - [✨ Animation](#-animation)  
 - [🧪 Testing](#-testing)  
@@ -97,6 +98,10 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [PostCSS](https://postcss.org/) - CSS transformation tool
 - [CSS Modules](https://github.com/css-modules/css-modules) - Local scoping for CSS
 - [Styled Components](https://styled-components.com/) - CSS-in-JS for React
+
+## 🎨 UI Components
+- [React-Bits](https://reactbits.dev/) - Front_End-Ui-Compo
+
 
 ## 📱 Responsive Design
 - [Chrome DevTools Device Mode](https://developer.chrome.com/docs/devtools/device-mode/) - Test responsive designs
