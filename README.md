@@ -101,6 +101,8 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 
 ## 🎨 UI Components
 - [React-Bits](https://reactbits.dev/) - Front_End-Ui-Compo
+- [21st-dev](https://21st.dev/home) - Front_End-Ui-Compo(Paid)
+- [Align-UI](https://www.alignui.com/) - Front_End-Ui-Compo(Paid)
 
 
 ## 📱 Responsive Design
