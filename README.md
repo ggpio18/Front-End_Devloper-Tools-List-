@@ -40,7 +40,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [⚡ Performance Optimization](#-performance-optimization)  
 - [🔍 SEO](#-seo)  
 - [🛠️ Miscellaneous Tools](#-miscellaneous-tools) 
-- [🛠️ Databases](#-databases)  
+- [🛠️ Database](#-Database)  
 - [📚 Learning Resources](#-learning-resources)  
 - [🙌 Contributing](#-contributing)  
 - [📜 License](#-license)  
@@ -161,7 +161,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Unsplash](https://unsplash.com/) - Free stock photos
 - [TinyPNG](https://tinypng.com/) - Image compression
 
-## 🛠️ Databases  
+## 🛠️ Database 
 - [Neon](https://neon.tech/) - PostgreSQL hosting  
 - [Supabase](https://supabase.com/) - Firebase alternative  
 
