@@ -40,6 +40,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [⚡ Performance Optimization](#-performance-optimization)  
 - [🔍 SEO](#-seo)  
 - [🛠️ Misc Tools](#️-misc-tools)  
+- [🛠️ Databases](#-databases)  
 - [📚 Learning Resources](#-learning-resources)  
 - [🙌 Contributing](#-contributing)  
 - [📜 License](#-license)  
@@ -162,6 +163,9 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [TinyPNG](https://tinypng.com/) - Image compression
 
 ---
+
+## Databases
+- [Neon](https://neon.com/) - Free databases postgres sql
 
 This project is open source and available under the [MIT License](LICENSE).
 
