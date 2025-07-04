@@ -161,6 +161,8 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Unsplash](https://unsplash.com/) - Free stock photos
 - [TinyPNG](https://tinypng.com/) - Image compression
 
+---
+
 ## 🛠️ Databases  
 - [Neon](https://neon.tech/)
 - [Supabase](https://supabase.com/)
