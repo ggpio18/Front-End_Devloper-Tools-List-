@@ -39,8 +39,8 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [🧪 Testing](#-testing)  
 - [⚡ Performance Optimization](#-performance-optimization)  
 - [🔍 SEO](#-seo)  
-- [🛠️ Miscellaneous Tools](#-miscellaneous-tools) 
-- [🛠️ Database](#-Database)  
+- [🛠️ Misc Tools](#misc-tools)  
+- [🛠️ Databases](#databases)   
 - [📚 Learning Resources](#-learning-resources)  
 - [🙌 Contributing](#-contributing)  
 - [📜 License](#-license)  
@@ -146,7 +146,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Schema.org](https://schema.org/) - Structured data markup
 - [Google Search Console](https://search.google.com/search-console) - Monitor search performance
 
-## 🛠️ Miscellaneous Tools
+## 🛠️ Misc Tools 
 ### Icons
 - [Font Awesome](https://fontawesome.com/) - Icon library
 - [Material Icons](https://fonts.google.com/icons) - Google's icon set
@@ -161,9 +161,11 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Unsplash](https://unsplash.com/) - Free stock photos
 - [TinyPNG](https://tinypng.com/) - Image compression
 
-## 🛠️ Database 
-- [Neon](https://neon.tech/) - PostgreSQL hosting  
-- [Supabase](https://supabase.com/) - Firebase alternative  
+---
+
+## 🛠️ Databases  <!-- Exactly matches TOC link -->
+- [Neon](https://neon.tech/)
+- [Supabase](https://supabase.com/)
 
 ---
 
