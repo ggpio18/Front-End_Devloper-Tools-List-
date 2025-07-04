@@ -32,14 +32,14 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [🔄 Version Control](#-version-control)  
 - [⚡ Build Tools](#-build-tools)  
 - [🎨 UI Frameworks & Libraries](#-ui-frameworks--libraries)  
-- [🎨 CSS Tools](#-css-tools)
-- [🎨 UI Components](#-ui-components) 
+- [🎨 CSS Tools](#-css-tools)  
+- [🎨 UI Components](#-ui-components)  
 - [📱 Responsive Design](#-responsive-design)  
 - [✨ Animation](#-animation)  
 - [🧪 Testing](#-testing)  
 - [⚡ Performance Optimization](#-performance-optimization)  
 - [🔍 SEO](#-seo)  
-- [🛠️ Misc Tools](#️-misc-tools)  
+- [🛠️ Misc Tools](#-misc-tools)  
 - [🛠️ Databases](#-databases)  
 - [📚 Learning Resources](#-learning-resources)  
 - [🙌 Contributing](#-contributing)  
@@ -53,7 +53,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Microsoft Edge](https://www.microsoft.com/edge) - Chromium-based with good devtools
 - [Brave](https://brave.com/) - Privacy-focused browser
 
-## 📝 Code Editors
+## 💻 Code Editors
 - [VS Code](https://code.visualstudio.com/) - Popular editor with extensions
   - Essential extensions:
     - ESLint
@@ -62,13 +62,6 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
     - GitLens
 - [WebStorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for JavaScript
 - [Atom](https://atom.io/) - Hackable text editor (discontinued)
-
-## 🔧 Build Tools
-- [Vite](https://vitejs.dev/) - Next-gen frontend tooling (fast builds)
-- [Webpack](https://webpack.js.org/) - Module bundler
-- [Rollup](https://rollupjs.org/) - Efficient bundler for libraries
-- [Parcel](https://parceljs.org/) - Zero-config bundler
-- [Babel](https://babeljs.io/) - JavaScript compiler
 
 ## 📦 Package Managers
 - [npm](https://www.npmjs.com/) - Node package manager
@@ -81,7 +74,14 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [GitLab](https://gitlab.com/) - Alternative to GitHub
 - [Bitbucket](https://bitbucket.org/) - Git repository management
 
-## 🎨 UI Frameworks
+## ⚡ Build Tools
+- [Vite](https://vitejs.dev/) - Next-gen frontend tooling (fast builds)
+- [Webpack](https://webpack.js.org/) - Module bundler
+- [Rollup](https://rollupjs.org/) - Efficient bundler for libraries
+- [Parcel](https://parceljs.org/) - Zero-config bundler
+- [Babel](https://babeljs.io/) - JavaScript compiler
+
+## 🎨 UI Frameworks & Libraries
 ### JavaScript Frameworks
 - [React](https://reactjs.org/) - Facebook's UI library
 - [Vue](https://vuejs.org/) - Progressive framework
@@ -94,7 +94,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Bulma](https://bulma.io/) - Flexbox-based CSS framework
 - [Material UI](https://mui.com/) - React implementation of Material Design
 
-## 💅 CSS Tools
+## 🎨 CSS Tools
 - [Sass](https://sass-lang.com/) - CSS preprocessor
 - [PostCSS](https://postcss.org/) - CSS transformation tool
 - [CSS Modules](https://github.com/css-modules/css-modules) - Local scoping for CSS
@@ -113,7 +113,6 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Mantine-UI](https://mantine.dev/) - Front_End-Ui-Compo(Free)
 - [React-Suite](https://rsuitejs.com/) - Front_End-Ui-Compo(Free)
 - [Retro-Tail-UI](https://www.retrotailui.com/docs/components/button) - Retro-style-Front_End-Ui-Compo(Free)
-
 
 ## 📱 Responsive Design
 - [Chrome DevTools Device Mode](https://developer.chrome.com/docs/devtools/device-mode/) - Test responsive designs
@@ -137,7 +136,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Playwright](https://playwright.dev/) - Cross-browser testing
 - [Selenium](https://www.selenium.dev/) - Browser automation
 
-## ⚡ Performance
+## ⚡ Performance Optimization
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Audit tool
 - [WebPageTest](https://www.webpagetest.org/) - Performance testing
 - [Bundlephobia](https://bundlephobia.com/) - Check package sizes
@@ -147,7 +146,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Schema.org](https://schema.org/) - Structured data markup
 - [Google Search Console](https://search.google.com/search-console) - Monitor search performance
 
-## 🛠️ Miscellaneous
+## 🛠️ Misc Tools
 ### Icons
 - [Font Awesome](https://fontawesome.com/) - Icon library
 - [Material Icons](https://fonts.google.com/icons) - Google's icon set
@@ -162,12 +161,13 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Unsplash](https://unsplash.com/) - Free stock photos
 - [TinyPNG](https://tinypng.com/) - Image compression
 
----
-
-## Databases
+## 🛠️ Databases
 - [Neon](https://neon.com/) - Free databases postgres sql
 
-This project is open source and available under the [MIT License](LICENSE).
+---
+
+## 📚 Learning Resources
+*(Add your favorite tutorials, courses, or docs here.)*
 
 ## 🙌 Contributing
 Feel free to fork this repo, add new tools, and submit a pull request. Contributions are always welcome!
@@ -177,8 +177,8 @@ Feel free to fork this repo, add new tools, and submit a pull request. Contribut
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-   
-## 📜 **License**  
+
+## 📜 License  
 This project is open-source under the **[MIT License](LICENSE)**.  
 
 ---
