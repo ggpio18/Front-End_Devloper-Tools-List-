@@ -124,6 +124,8 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [GSAP](https://greensock.com/gsap/) - Professional animations
 - [Anime.js](https://animejs.com/) - Lightweight animation library
 - [Lottie](https://airbnb.design/lottie/) - JSON-based animations
+- [AOS](https://michalsnik.github.io/aos/) - Css animations on scroll
+- [Animate-css](https://animate.style/) - Css animations
 
 ## 🧪 Testing
 ### Unit Testing
