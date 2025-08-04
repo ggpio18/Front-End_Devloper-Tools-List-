@@ -182,10 +182,12 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Supabase](https://supabase.com/)
 
 ## CMS
+- [Sanity](https://www.sanity.io/templates/nextjs-sanity-clean)
 - [Payload-CMS](https://payloadcms.com/)
 - [Strapi](hhttps://strapi.io/)
 - [WPCMS](hhttps://vercel.com/guides/wordpress-with-vercel) - headless cms
 - [Prismic](https://prismic.io/)
+- [Tina](https://tina.io/)
 
 ## 📚 Learning Resources
 *(Add your favorite tutorials, courses, or docs here.)*
