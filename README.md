@@ -184,7 +184,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 ## CMS
 - [Payload-CMS](https://payloadcms.com/)
 - [Strapi](hhttps://strapi.io/)
-- [WP-CMS](hhttps://vercel.com/guides/wordpress-with-vercel) - headless cms
+- [WPCMS](hhttps://vercel.com/guides/wordpress-with-vercel) - headless cms
 - [Prismic](https://prismic.io/)
 
 ## 📚 Learning Resources
