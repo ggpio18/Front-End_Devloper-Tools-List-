@@ -41,6 +41,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [🔍 SEO](#-seo)  
 - [🛠️ Misc Tools](#misc-tools)  
 - [🛠️ Databases](#databases)   
+- [🛠️ CMS](#CMS)   
 - [📚 Learning Resources](#-learning-resources)  
 - [🙌 Contributing](#-contributing)  
 - [📜 License](#-license)  
@@ -179,6 +180,12 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 ## 🛠️ Databases  
 - [Neon](https://neon.tech/)
 - [Supabase](https://supabase.com/)
+
+## CMS
+- [Payload-CMS](https://payloadcms.com/)
+- [Strapi](hhttps://strapi.io/)
+- [WP-CMS](hhttps://vercel.com/guides/wordpress-with-vercel) - headless cms
+- [Prismic](https://prismic.io/)
 
 ## 📚 Learning Resources
 *(Add your favorite tutorials, courses, or docs here.)*
