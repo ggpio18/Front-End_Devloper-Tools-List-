@@ -127,7 +127,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Kibo-UI](https://www.kibo-ui.com/) - Front_End-Ui-Compo
 - [Skipper-UI](https://skiper-ui.com/) - Front_End-Ui-Compo
 - [lUKACHO](https://ui.lukacho.com/components/figma-cursor) - Front_End-Ui-Compo
-- []() - Front_End-Ui-Compo
+- [Animata](https://animata.design/docs/hero/product-features) - Front_End-Ui-Compo
 - []() - Front_End-Ui-Compo
 
 
