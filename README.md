@@ -103,6 +103,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 
 ## 🎨 UI Components
 - [React-Bits](https://reactbits.dev/) - Front_End-Ui-Compo
+- [mAGIC-UI](https://magicui.design/) - Front_End-Ui-Compo
 - [React-Spring](https://www.react-spring.dev/) - Front_End-Ui-Compo
 - [Floating-UI](https://floating-ui.com/?utm_source=popper.js.org) - Front_End-Ui-Compo
 - [21st-dev](https://21st.dev/home) - Front_End-Ui-Compo(Paid)
