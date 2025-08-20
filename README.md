@@ -135,7 +135,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [tailArk](https://tailark.com/) - Front_End-Ui-Compo
 - [motion-priomitives](https://motion-primitives.com/docs/border-trail) - Front_End-Ui-Compo
 - [kokonuy-ui](https://kokonutui.com/docs/components/gradient-button) - Front_End-Ui-Compo
-- []() - Front_End-Ui-Compo
+- [Smooth-UI](https://smoothui.dev/doc/basic/animated-input) - Front_End-Ui-Compo
 - []() - Front_End-Ui-Compo
 - []() - Front_End-Ui-Compo
 
