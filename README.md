@@ -133,7 +133,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Once-ui](https://once-ui.com/) - Front_End-Ui-Compo(paid/free)
 - [re-ui](https://reui.io/blocks) - Front_End-Ui-Compo
 - [tailArk](https://tailark.com/) - Front_End-Ui-Compo
-- []() - Front_End-Ui-Compo
+- [motion-priomitives](https://motion-primitives.com/docs/border-trail) - Front_End-Ui-Compo
 - []() - Front_End-Ui-Compo
 - []() - Front_End-Ui-Compo
 - []() - Front_End-Ui-Compo
