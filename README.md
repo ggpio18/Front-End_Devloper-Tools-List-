@@ -204,6 +204,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [WPCMS](hhttps://vercel.com/guides/wordpress-with-vercel) - headless cms
 - [Prismic](https://prismic.io/)
 - [Tina](https://tina.io/)
+- [Hygraph](https://hygraph.com/)
 
 ## 📚 Learning Resources
 *(Add your favorite tutorials, courses, or docs here.)*
