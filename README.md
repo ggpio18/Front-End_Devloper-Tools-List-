@@ -207,7 +207,8 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Hygraph](https://hygraph.com/)
 
 ## 📚 Learning Resources
-*(Add your favorite tutorials, courses, or docs here.)*
+*(Add your favorite tutorials, courses, website or docs here.)*
+- [Homeofdevs](https://homeofdevs.com/)
 
 ## 🙌 Contributing
 Feel free to fork this repo, add new tools, and submit a pull request. Contributions are always welcome!
