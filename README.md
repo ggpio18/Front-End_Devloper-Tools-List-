@@ -206,6 +206,7 @@ Each folder contains documentation, usage examples, setup tips, and real-world i
 - [Prismic](https://prismic.io/)
 - [Tina](https://tina.io/)
 - [Hygraph](https://hygraph.com/)
+- [Oneentry](https://oneentry.cloud/)
 
 ## 📚 Learning Resources
 *(Add your favorite tutorials, courses, website or docs here.)*
